@@ -2,11 +2,6 @@
 
 Name: Josh Casey "loganxart" 
 
-Role: Tron Advocate
+Role: Tron Advocate, Tech Analyst, Revolutionary Idea Man.
 
-## Team Member 1
-
-Name: Jon Collins 
-
-Role: Tech Analyst
 
