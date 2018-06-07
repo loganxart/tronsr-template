@@ -6,4 +6,4 @@ I advocate for a decentralized internet where the bigwigs dont have full control
 
 I do not and will never put profit, corporations or special interest groups in front of the people I care for.
 
-I do not support the throttling of internet services, bandwidth or access to the internet for any reason. I believe the internet should be completely open to those who wish to use it. Without restrictions, cesnsorships imposed by corporations or governements.(Net Neutrality)
+I do not support the throttling of internet services, bandwidth or access to the internet for any reason. I believe the internet should be completely open to those who wish to use it. Without restrictions, censorships imposed by corporations or governements.(Net Neutrality)
